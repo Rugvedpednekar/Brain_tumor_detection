@@ -1,0 +1,11 @@
+tensorflow>=2.10.0
+opencv-python
+matplotlib
+numpy
+scikit-learn
+
+🔧 Optional (if you're using Jupyter Notebook):
+If you’re running everything in a .ipynb file, you might also add:
+
+jupyter
+
